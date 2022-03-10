@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Prajwal Singla
+💻 I'm a Frontend Developer from India, currently working at Ridecell as Frontend Developer.
 
 [![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalsingla3014)](https://github.com/prajwalsingla3014/github-readme-stats)
 
