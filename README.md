@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Prajwal Singla
 💻 I'm a Frontend Developer from India, currently working at Ridecell as Frontend Developer.
 
-[![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalsingla3014)](https://github.com/prajwalsingla3014/github-readme-stats)
+[![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalsingla3014&hide=stars)](https://github.com/prajwalsingla3014/github-readme-stats)
 
 <!--
 **prajwalsingla3014/prajwalsingla3014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
